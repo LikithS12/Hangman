@@ -8,8 +8,3 @@ A simple text-based Hangman game implemented in Python. Guess the letters of the
 - Tracks the player's guesses and remaining lives.
 - Provides feedback on correct and incorrect guesses.
 - Allows the player to play multiple rounds.
-
-## Technologies Used
-
-- Python 3
-- Libraries: `random`, `string`
